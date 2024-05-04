@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(134, 223, 223, 0.13);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(221, 25, 25);
+    size: 70%;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+  text-align:end;
+  background-color:yellow;
+
+}
+nav {
+  background-color: antiquewhite;
+}
+
+.div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ce2121;
+    position:-ms-page;
+  }
+  
+ dt{
+  font-size: larger;
+ }
+
+  h2, h3{
+    background-color:aquamarine;
+    text-align: center;
+  }
+  .p {
+    color: black;
+    text-align: center;
+  }
+  .img{
+    border: solid;
+    padding-top: 0%;
+    margin: 0 auto;
+    width: 250px;
+  }
+  body{
+    background-color: white;
+  }
+  dt {
+    color: aquamarine;
+    background-image: none;
+    text-align: left;
+    color: #dd1212;
+    font-style: italic;
+    font-size: larger;
+
+  }
+.dl {
+  background-color: aqua;
+  
+}
+  .table {
+    border: ;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+  
+  td, th {
+    border: 1px solid #e0b4b4;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  img {
+    border-color: aqua;
+    border-style:double;
+    margin: 5px;
+    border-radius: 8px;
+    background-position: center;
+    border-color: rgb(4, 44, 44);
+    position: middle;
+  
+  }
