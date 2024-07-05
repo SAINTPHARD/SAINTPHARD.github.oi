@@ -14,24 +14,23 @@ h4{
   background-color:yellow;
 
 }
-nav {
-  background-color: antiquewhite;
-}
 
 .div.container {
   text-align: center;
   padding: 10px 20px;
 }
 
-.nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #ce2121;
-    position:-ms-page;
-  }
-  
+.cabecalho {
+  padding: 2% 0% 0% 15%;
+}
+
+.cabecalho_-menu {
+  display: flex;
+  gap: 70px;
+  margin: 3px; padding: 3px;
+  border-top: #dd1212;
+}
+
  dt{
   font-size: larger;
  }
